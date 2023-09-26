@@ -14,6 +14,6 @@ Para que o programa funcione, siga os passos abaixo:
 10 - Renomeie o arquivo whatsapp.txt para "Conversa do WhatsApp com [nome do seu contato].txt", sem as aspas e sem os colchetes
 11 - Se você deseja importar as fotos, vídeos e áudios do chat do Telegram original, siga para o passo 13. Senão, continue no 12
 12 - Envie o arquivo .txt para seu telefone e compartilhe com o Telegram, e depois selecione o contato que deseja importar o chat
-13 - Por causa de algum bug (provavelmente do Telegram), é necessário salvar todos os arquivos de fotos, vídeos e áudios numa pasta do de Drive (no meu caso, Google Drive) para que o Telegram reconheça os arquivos de mídia, e a partir dessa pasta na nuvem, compartilhar os arquivos do seu telefone para o Telegram.
+13 - Por causa de algum bug (provavelmente do Telegram), é necessário salvar todos os arquivos de fotos, vídeos e áudios numa pasta de drive (no meu caso, Google Drive) para que o Telegram reconheça os arquivos de mídia, e a partir dessa pasta na nuvem, compartilhar os arquivos do seu telefone para o Telegram.
 
 Se ficou alguma dúvida, sinta-se à vontade para deixar algum comentário nesse post do GitHub :)
